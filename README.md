@@ -15,5 +15,3 @@ Dataset: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.e
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-
-The result of 1-4 steps is *1-4stepsdata.txt* file, the result of this 5 step is *5stepdata.txt* file, which has tidy
